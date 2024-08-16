@@ -1,3 +1,4 @@
 git+https://github.com/openai/CLIP.git
 open_clip_torch
 sentence_transformers
+opencv-python
